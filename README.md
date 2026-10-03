@@ -53,15 +53,14 @@ Arch Linux user. Dark mode always. He/Him.
 | JavaScript | Intermediate |
 | Solidity | Intermediate |
 | Bash | Intermediate |
-| C# | Beginner |
-| C++ | Beginner |
-| PHP | Beginner |
-| Go | Beginner |
 | Assembly | Intermediate |
 | Dart | Intermediate |
 | HTML | Intermediate |
 | CSS | Intermediate |
-| Node.js / Frameworks | Basic knowledge, no practical experience |
+| C# | Beginner |
+| C++ | Beginner |
+| PHP | Beginner |
+| Go | Beginner |
 
 ### Security Tools
 
@@ -80,14 +79,14 @@ Arch Linux user. Dark mode always. He/Him.
 |---|---|
 | Ethereum | Intermediate |
 | EVM | Intermediate |
-| Layer 2 | Beginner |
-| DeFi | Beginner |
 | Smart Contracts | Intermediate |
 | Solidity | Intermediate |
 | Hardhat | Intermediate |
 | Foundry | Intermediate |
-| Remix | Beginner |
 | ERC-20 | Intermediate |
+| Layer 2 | Beginner |
+| DeFi | Beginner |
+| Remix | Beginner |
 | ERC-721 | Beginner |
 
 ### Operating Systems & Virtualization
@@ -95,10 +94,10 @@ Arch Linux user. Dark mode always. He/Him.
 | OS / Tool | Level |
 |---|---|
 | Arch Linux | Intermediate |
-| Windows | Intermediate |
 | Gentoo | Intermediate |
 | Debian | Intermediate |
 | Parrot OS | Intermediate |
+| Windows | Intermediate |
 | VMware | Used |
 | VirtualBox | Used |
 
@@ -108,8 +107,6 @@ Arch Linux user. Dark mode always. He/Him.
 |---|---|
 | Networking (TCP/IP, Firewalls, Wireshark) | Intermediate |
 | Docker | Beginner |
-| Kubernetes | None |
-| CI/CD | None |
 
 ### AI Tools
 
@@ -120,8 +117,7 @@ Arch Linux user. Dark mode always. He/Him.
 | DeepSeek | Beginner |
 | Grok | Beginner |
 | Usage (Research & Learning) | Advanced |
-| PyTorch / TensorFlow / LangChain | None |
-| AI Security | Beginner (interested, no practical experience) |
+| AI Security | Beginner |
 
 ### Management & Writing
 
@@ -129,7 +125,6 @@ Arch Linux user. Dark mode always. He/Him.
 |---|---|
 | Project Management | Advanced |
 | Technical Writing | Advanced |
-| Content Creation | Beginner |
 
 ---
 
@@ -173,7 +168,6 @@ Arch Linux user. Dark mode always. He/Him.
 
 ## Certifications
 
-- **None yet.**
 - Actively working toward a Web3 Security Certification  
   (Cyfrin Updraft / Hashlock SSCAC).
 
@@ -196,18 +190,6 @@ Arch Linux user. Dark mode always. He/Him.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duljah&layout=compact&theme=dark&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duljah&theme=dark&hide_border=true)
-
----
-
-## Current GitHub Snapshot
-
-> Transparency according to the latest profile update:
-
-- Public repositories: **2** (`binary-fundamentals`, `duljah`)
-- Contributions in the last year: **17**
-- October 2026: **13 commits** to `duljah/duljah`  
-  (including Oct 3)
-- Contribution graph is currently sparse; more public activity will appear as work is published.
 
 ---
 
