@@ -2,6 +2,8 @@
 
 **CEO @TeeCorp | Cybersecurity & Web3 Security**
 
+![Profile Views](https://komarev.com/ghpvc/?username=duljah&color=blue&style=flat)
+
 ---
 
 ### 🛡️ About Me
@@ -10,6 +12,7 @@
 - 🎯 Bug Bounty Hunter
 - 🐧 Arch Linux Enthusiast
 - 🌱 Currently Learning: Smart Contract Auditing
+- 🚀 Currently Working On: Web3 Security Research
 - 💼 CEO @TeeCorp
 - 📍 New Capital, Egypt
 
@@ -31,6 +34,8 @@
 ![Duljah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duljah&show_icons=true&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duljah&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=duljah&theme=dark&hide_border=true)
 
 ---
 
