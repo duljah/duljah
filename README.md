@@ -1,30 +1,41 @@
-# Duljah
+<!-- Header -->
+<h1 align="center">Duljah</h1>
+<h3 align="center">Cybersecurity Researcher · Web3 & Smart Contract Security · CEO @TeeCorp</h3>
 
-**CEO @TeeCorp | Cybersecurity & Web3 Security**
+<p align="center">
+  <a href="https://github.com/duljah"><img src="https://img.shields.io/badge/GitHub-duljah-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://x.com/0Duljah"><img src="https://img.shields.io/badge/X-@0Duljah-000000?style=for-the-badge&logo=x"></a>
+  <a href="https://linkedin.com/in/duljah"><img src="https://img.shields.io/badge/LinkedIn-duljah-0A66C2?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://orcid.org/0009-0007-5835-672X"><img src="https://img.shields.io/badge/ORCID-0009--0007--5835--672X-A6CE39?style=for-the-badge&logo=orcid"></a>
+  <a href="mailto:duljah@proton.me"><img src="https://img.shields.io/badge/Email-duljah@proton.me-EA4335?style=for-the-badge&logo=protonmail"></a>
+</p>
 
-New Capital, Egypt
+<p align="center">📍 New Capital, Egypt · 🏢 CEO @TeeCorp</p>
 
 ---
 
-## About
+## 🧭 About Me
 
-Cybersecurity researcher specializing in Web3 and Smart Contract security. Bug Bounty hunter across Web3 and Web2 platforms. Arch Linux user. CEO of Tee Corp — AI and Cybersecurity. Currently building a stronger foundation in security research.
+Cybersecurity researcher specializing in **Web3 and Smart Contract Security**.  
+Bug bounty hunter across **Web3 and Web2** platforms.  
+CEO of **TeeCorp** — AI and Cybersecurity.  
+Arch Linux user. Currently building a stronger foundation in security research.
 
 ---
 
-## Skills
+## 🛠️ Tech Stack
 
 | Category | Skills |
-| :--- | :--- |
-| **Languages** | Python · JavaScript · Solidity · Bash |
-| **Security Tools** | Burp Suite · Ghidra · Slither · Foundry · Nmap · Metasploit |
-| **Web3** | Ethereum · Smart Contracts · DeFi · EVM |
-| **Operating Systems** | Arch Linux · Kali Linux |
-| **AI Tools** | OpenAI · Claude · DeepSeek · Grok |
+|---|---|
+| Languages | Python · JavaScript · Solidity · Bash |
+| Security Tools | Burp Suite · Ghidra · Slither · Foundry · Nmap · Metasploit |
+| Web3 | Ethereum · Smart Contracts · DeFi · EVM |
+| Operating Systems | Arch Linux · Kali Linux |
+| AI Tools | OpenAI · Claude · DeepSeek · Grok |
 
 ---
 
-## Currently Learning
+## 🎯 Current Focus
 
 - Smart Contract Auditing
 - Web3 Security Research
@@ -33,7 +44,7 @@ Cybersecurity researcher specializing in Web3 and Smart Contract security. Bug B
 
 ---
 
-## Research Interests
+## 🔬 Research Interests
 
 - Web3 Security
 - Smart Contract Vulnerabilities
@@ -44,39 +55,36 @@ Cybersecurity researcher specializing in Web3 and Smart Contract security. Bug B
 
 ---
 
-## Projects
+## 🚀 Featured Projects
 
-- [binary-fundamentals](https://github.com/duljah/binary-fundamentals) — Learning binary, number systems, and basic low-level concepts.
-- *New projects added regularly.*
-
----
-
-## Connect
-
-- **GitHub:** [github.com/duljah](https://github.com/duljah)
-- **X:** [@0Duljah](https://x.com/0Duljah)
-- **LinkedIn:** [in/duljah](https://www.linkedin.com/in/duljah)
-- **ORCID:** [0009-0007-5835-672X](https://orcid.org/0009-0007-5835-672X)
-- **Email:** [duljah@proton.me](mailto:duljah@proton.me)
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| binary-fundamentals | Learning binary, number systems, and basic low-level concepts | [Tech] | [Link] |
+| [Project 2] | [Description] | [Tech] | [Link] |
 
 ---
 
-## GitHub Stats
+## 🏢 TeeCorp
 
-<div align="center">
+CEO at **TeeCorp** — AI & Cybersecurity.  
+[Website] · [Email] · [LinkedIn]
 
-<a href="https://github.com/duljah">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duljah&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&hide=stars,prs,issues,contribs&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duljah&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
-</a>
+---
 
-<br><br>
+## 📊 GitHub Stats
 
-<a href="https://github.com/duljah">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duljah&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duljah&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duljah&layout=compact&theme=dark)
 
-</div>
+---
+
+## 🤝 Connect
+
+- GitHub: [github.com/duljah](https://github.com/duljah)
+- X: [@0Duljah](https://x.com/0Duljah)
+- LinkedIn: [in/duljah](https://linkedin.com/in/duljah)
+- ORCID: [0009-0007-5835-672X](https://orcid.org/0009-0007-5835-672X)
+- Email: [duljah@proton.me](mailto:duljah@proton.me)
 
 ---
 
