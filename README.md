@@ -8,13 +8,14 @@
 ![Company](https://img.shields.io/badge/Company-TeeCorp-black?style=flat-square)
 ![Pronouns](https://img.shields.io/badge/Pronouns-he%2Fhim-purple?style=flat-square)
 ![Arabic](https://img.shields.io/badge/Arabic-Native-green?style=flat-square)
-![English](https://img.shields.io/badge/English-B1-yellow?style=flat-square)
+![English](https://img.shields.io/badge/English-B2-yellow?style=flat-square)
+![French](https://img.shields.io/badge/French-A1-lightgrey?style=flat-square)
 ![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![Dark Mode](https://img.shields.io/badge/Dark%20Mode-Always-000000?style=flat-square)
 
 ---
 
-## 🧭 About Me
+## About Me
 
 Cybersecurity researcher focused on **Web3 and Web2 Bug Bounty**.  
 CEO of **TeeCorp** — AI & Cybersecurity, registered in Egypt.  
@@ -22,14 +23,14 @@ Currently building public proof of work in **smart contract security**, **Web3 s
 I create educational content and tips for independent learners.  
 Arch Linux user. Dark mode always. He/Him.
 
-📍 Celia – New Capital, Egypt  
-🏢 CEO @TeeCorp  
-🗣️ Arabic (Native) · English (B1)  
-🌑 Dark Mode Always · 🐧 Arch Linux
+- **Location:** Celia – New Capital, Egypt
+- **Company:** CEO @TeeCorp
+- **Spoken Languages:** Arabic (Native) · English (B2) · French (A1 – basic)
+- **OS:** Arch Linux · Dark Mode Always
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Web3 & Web2 Bug Bounty
 - Smart Contract Security
@@ -40,19 +41,99 @@ Arch Linux user. Dark mode always. He/Him.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
-| Category | Skills |
+> Levels are self-assessed and reflect current practical experience.
+
+### Languages
+
+| Language | Level |
 |---|---|
-| Languages | Python · JavaScript · Solidity · Bash |
-| Security Tools | Burp Suite · Ghidra · Slither · Foundry · Nmap · Metasploit |
-| Web3 | Ethereum · EVM · Layer 2 · DeFi · Smart Contracts |
-| Operating Systems | Arch Linux · Kali Linux |
-| AI Tools | OpenAI · Claude · DeepSeek · Grok |
+| Python | Intermediate |
+| JavaScript | Intermediate |
+| Solidity | Intermediate |
+| Bash | Intermediate |
+| C# | Beginner |
+| C++ | Beginner |
+| PHP | Beginner |
+| Go | Beginner |
+| Assembly | Intermediate |
+| Dart | Intermediate |
+| HTML | Intermediate |
+| CSS | Intermediate |
+| Node.js / Frameworks | Basic knowledge, no practical experience |
+
+### Security Tools
+
+| Tool | Level |
+|---|---|
+| Burp Suite | Intermediate |
+| Foundry | Intermediate |
+| Nmap | Intermediate |
+| Hardhat | Intermediate |
+
+*Other security tasks are performed manually.*
+
+### Web3
+
+| Skill | Level |
+|---|---|
+| Ethereum | Intermediate |
+| EVM | Intermediate |
+| Layer 2 | Beginner |
+| DeFi | Beginner |
+| Smart Contracts | Intermediate |
+| Solidity | Intermediate |
+| Hardhat | Intermediate |
+| Foundry | Intermediate |
+| Remix | Beginner |
+| ERC-20 | Intermediate |
+| ERC-721 | Beginner |
+
+### Operating Systems & Virtualization
+
+| OS / Tool | Level |
+|---|---|
+| Arch Linux | Intermediate |
+| Windows | Intermediate |
+| Gentoo | Intermediate |
+| Debian | Intermediate |
+| Parrot OS | Intermediate |
+| VMware | Used |
+| VirtualBox | Used |
+
+### Networking & Containers
+
+| Skill | Level |
+|---|---|
+| Networking (TCP/IP, Firewalls, Wireshark) | Intermediate |
+| Docker | Beginner |
+| Kubernetes | None |
+| CI/CD | None |
+
+### AI Tools
+
+| Tool / Skill | Level |
+|---|---|
+| OpenAI | Intermediate |
+| Claude | Intermediate |
+| DeepSeek | Beginner |
+| Grok | Beginner |
+| Usage (Research & Learning) | Advanced |
+| PyTorch / TensorFlow / LangChain | None |
+| AI Security | Beginner (interested, no practical experience) |
+
+### Management & Writing
+
+| Skill | Level |
+|---|---|
+| Project Management | Advanced |
+| Technical Writing | Advanced |
+| Content Creation | Beginner |
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 - Web3 Security
 - Smart Contract Vulnerabilities
@@ -64,7 +145,7 @@ Arch Linux user. Dark mode always. He/Him.
 
 ---
 
-## 🎓 Education & Plans
+## Education & Plans
 
 - **Foundation Offer** — University of Auckland
 - **Planned Study** — Mathematics & Physics, starting **February 2029**
@@ -72,7 +153,7 @@ Arch Linux user. Dark mode always. He/Him.
 
 ---
 
-## 🏢 TeeCorp
+## TeeCorp
 
 - CEO @ TeeCorp — AI & Cybersecurity.
 - Registered in Egypt.
@@ -81,15 +162,16 @@ Arch Linux user. Dark mode always. He/Him.
 
 ---
 
-## 🐛 Bug Bounty
+## Bug Bounty
 
 - Active in Web3 & Web2 Bug Bounty.
 - Profiles: Immunefi · HackerOne · Bugcrowd · HackenProof
 - Public reports and writeups will be published as they become available.
+- **Current status:** No public reports yet.
 
 ---
 
-## 📚 Certifications
+## Certifications
 
 - **None yet.**
 - Actively working toward a Web3 Security Certification  
@@ -97,7 +179,7 @@ Arch Linux user. Dark mode always. He/Him.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
@@ -107,7 +189,7 @@ Arch Linux user. Dark mode always. He/Him.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Duljah's GitHub stats](https://github-readme-stats.vercel.app/api?username=duljah&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
 
@@ -117,18 +199,19 @@ Arch Linux user. Dark mode always. He/Him.
 
 ---
 
-## 📌 Current GitHub Snapshot
+## Current GitHub Snapshot
 
+> Transparency according to the latest profile update:
 
 - Public repositories: **2** (`binary-fundamentals`, `duljah`)
-- Contributions in the last year: **15**
-- October 2026: **11 commits** to `duljah/duljah`  
+- Contributions in the last year: **17**
+- October 2026: **13 commits** to `duljah/duljah`  
   (including Oct 3)
 - Contribution graph is currently sparse; more public activity will appear as work is published.
 
 ---
 
-## 🤝 Connect
+## Connect
 
 - GitHub: [github.com/duljah](https://github.com/duljah)
 - X: [@0Duljah](https://x.com/0Duljah)
