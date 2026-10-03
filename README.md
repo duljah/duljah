@@ -119,6 +119,7 @@ Arch Linux user. Dark mode always. He/Him.
 
 ## 📌 Current GitHub Snapshot
 
+> شفافية حسب آخر تحديث للبروفايل:
 
 - Public repositories: **2** (`binary-fundamentals`, `duljah`)
 - Contributions in the last year: **15**
