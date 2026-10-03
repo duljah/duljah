@@ -160,7 +160,7 @@ Arch Linux user. Dark mode always. He/Him.
 ## Bug Bounty
 
 - Active in Web3 & Web2 Bug Bounty Hunting.
-- Profiles: Immunefi · HackerOne · Bugcrowd · HackenProof
+- **Platforms:** Immunefi · Code4rena · Cantina · Cyfrin (CodeHawks) · HackenProof · Sherlock · BugEx · BugBounty.ch (Switzerland)
 - Public reports and writeups will be published as they become available.
 - **Current status:** No public reports yet.
 
