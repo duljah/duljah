@@ -1,62 +1,39 @@
-# Hi, I'm Duljah 👋
+<div align="center">
 
-**CEO @TeeCorp | Cybersecurity & Web3 Security**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=DULJAH;Cybersecurity+Researcher;Web3+Security;Bug+Bounty+Hunter" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=duljah&color=3B82F6&style=flat-square&label=Profile+Views)
+<br>
 
----
+<pre>
+╔══════════════════════════════════════════════════════════╗
+║  > SYSTEM.ONLINE                                          ║
+║  > USER: DULJAH                                            ║
+║  > ROLE: CEO @TeeCorp                                      ║
+║  > STATUS: ACTIVE                                          ║
+║  > LOCATION: New Capital, Egypt                            ║
+╚══════════════════════════════════════════════════════════╝
+</pre>
 
-### 🛡️ About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=500&lines=%5B%2B%5D+Initializing+secure+connection...;%5B%2B%5D+Access+granted.;%5B%2B%5D+Welcome+to+the+terminal.)](https://git.io/typing-svg)
 
-- 🔭 Cybersecurity Researcher — Web3 & Smart Contracts
-- 🎯 Bug Bounty Hunter
-- 🐧 Arch Linux Enthusiast
-- 🌱 Currently Learning: Smart Contract Auditing
-- 🚀 Currently Working On: Web3 Security Research
-- 💼 CEO @TeeCorp
-- 📍 New Capital, Egypt
-
----
-
-### 🛠️ Tech Stack & Skills
-
-**Languages:** Python · JavaScript · Solidity · Bash
-
-**Security:** Burp Suite · Ghidra · Slither · Foundry · Nmap
-
-**Web3:** Ethereum · Smart Contracts · DeFi · EVM
-
-**OS:** Arch Linux · Kali Linux
-
-**AI:** OpenAI · Claude · DeepSeek · Grok
+</div>
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duljah&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,prs,issues,contribs&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" />
-</p>
+### ⚡ `> whoami`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duljah&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B35&currStreakLabel=3B82F6" />
-</p>
+</div>
 
----
+```bash
+┌──(duljah㉿teecorp)-[~]
+└─$ cat about.txt
 
-### 🚀 Featured Projects
-
-- [binary-fundamentals](https://github.com/duljah/binary-fundamentals) — Learning binary, number systems, and basic low-level concepts
-
----
-
-### 🔗 Connect
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0Duljah)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duljah)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-5835-672X)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:duljah@proton.me)
-
----
-
-<p align="center"><i>"Building a sharper, healthier version of myself."</i></p>
+  ▸ Cybersecurity Researcher — Web3 & Smart Contracts
+  ▸ Bug Bounty Hunter — Web3 & Web2
+  ▸ Arch Linux Enthusiast
+  ▸ Smart Contract Auditing (In Progress)
+  ▸ Web3 Security Research (Active)
+  ▸ CEO @TeeCorp — AI & Cybersecurity
+  ▸ New Capital, Egypt
