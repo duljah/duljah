@@ -1,22 +1,16 @@
-<!-- Header -->
-<h1 align="center">Duljah</h1>
-<h3 align="center">Cybersecurity Researcher · Web3 & Web2 Bug Bounty · CEO @TeeCorp</h3>
+# Duljah
 
-<p align="center">
-  <a href="https://github.com/duljah"><img src="https://img.shields.io/badge/GitHub-duljah-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://x.com/0Duljah"><img src="https://img.shields.io/badge/X-@0Duljah-000000?style=for-the-badge&logo=x"></a>
-  <a href="https://linkedin.com/in/duljah"><img src="https://img.shields.io/badge/LinkedIn-duljah-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://orcid.org/0009-0007-5835-672X"><img src="https://img.shields.io/badge/ORCID-0009--0007--5835--672X-A6CE39?style=for-the-badge&logo=orcid"></a>
-  <a href="mailto:duljah@proton.me"><img src="https://img.shields.io/badge/Email-duljah@proton.me-EA4335?style=for-the-badge&logo=protonmail"></a>
-</p>
+> Cybersecurity Researcher · Web3 & Web2 Bug Bounty · CEO @TeeCorp
 
-<p align="center">
-  📍 Celia – New Capital, Egypt · 🏢 CEO @TeeCorp · 🗣️ Arabic (Native) · English (B1)
-</p>
+`duljah · he/him`
 
-<p align="center">
-  🌑 Dark Mode Always · 🐧 Arch Linux
-</p>
+![Location](https://img.shields.io/badge/Location-Celia%20–%20New%20Capital,%20Egypt-blue?style=flat-square)
+![Company](https://img.shields.io/badge/Company-TeeCorp-black?style=flat-square)
+![Pronouns](https://img.shields.io/badge/Pronouns-he%2Fhim-purple?style=flat-square)
+![Arabic](https://img.shields.io/badge/Arabic-Native-green?style=flat-square)
+![English](https://img.shields.io/badge/English-B1-yellow?style=flat-square)
+![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Dark Mode](https://img.shields.io/badge/Dark%20Mode-Always-000000?style=flat-square)
 
 ---
 
@@ -25,8 +19,13 @@
 Cybersecurity researcher focused on **Web3 and Web2 Bug Bounty**.  
 CEO of **TeeCorp** — AI & Cybersecurity, registered in Egypt.  
 Currently building public proof of work in **smart contract security**, **Web3 security research**, and **bug bounty**.  
-I create **educational content and tips** for independent learners.  
+I create educational content and tips for independent learners.  
 Arch Linux user. Dark mode always. He/Him.
+
+📍 Celia – New Capital, Egypt  
+🏢 CEO @TeeCorp  
+🗣️ Arabic (Native) · English (B1)  
+🌑 Dark Mode Always · 🐧 Arch Linux
 
 ---
 
@@ -68,30 +67,33 @@ Arch Linux user. Dark mode always. He/Him.
 ## 🎓 Education & Plans
 
 - **Foundation Offer** — University of Auckland
-- **Planned Study** — Mathematics & Physics, starting February 2029
+- **Planned Study** — Mathematics & Physics, starting **February 2029**
 - Continuous learning in security research, cryptography, and AI security
 
 ---
 
 ## 🏢 TeeCorp
 
-CEO @ **TeeCorp** — AI & Cybersecurity.  
-Registered in Egypt. Focused on cybersecurity, with AI as an enabler.  
-**Website & Email coming soon.**
+- CEO @ TeeCorp — AI & Cybersecurity.
+- Registered in Egypt.
+- Focused on cybersecurity, with AI as an enabler.
+- Website & Email coming soon.
 
 ---
 
 ## 🐛 Bug Bounty
 
-Active in **Web3 & Web2 Bug Bounty**.  
-Profiles: Immunefi · HackerOne · Bugcrowd · HackenProof  
-Public reports and writeups will be published as they become available.
+- Active in Web3 & Web2 Bug Bounty.
+- Profiles: Immunefi · HackerOne · Bugcrowd · HackenProof
+- Public reports and writeups will be published as they become available.
 
 ---
 
 ## 📚 Certifications
 
-None yet. Actively working toward a **Web3 Security Certification** (Cyfrin Updraft / Hashlock SSCAC).
+- **None yet.**
+- Actively working toward a Web3 Security Certification  
+  (Cyfrin Updraft / Hashlock SSCAC).
 
 ---
 
@@ -100,14 +102,30 @@ None yet. Actively working toward a **Web3 Security Certification** (Cyfrin Updr
 | Project | Description | Stack | Link |
 |---|---|---|---|
 | binary-fundamentals | Learning binary, number systems, and basic low-level concepts | Low-level | [Repo](https://github.com/duljah/binary-fundamentals) |
+| duljah | GitHub profile repository | Markdown | [Repo](https://github.com/duljah/duljah) |
 | More projects | Added regularly | — | — |
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duljah&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duljah&layout=compact&theme=dark)
+![Duljah's GitHub stats](https://github-readme-stats.vercel.app/api?username=duljah&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duljah&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duljah&theme=dark&hide_border=true)
+
+---
+
+## 📌 Current GitHub Snapshot
+
+> شفافية حسب آخر تحديث للبروفايل:
+
+- Public repositories: **2** (`binary-fundamentals`, `duljah`)
+- Contributions in the last year: **15**
+- October 2026: **11 commits** to `duljah/duljah`  
+  (including Oct 3)
+- Contribution graph is currently sparse; more public activity will appear as work is published.
 
 ---
 
@@ -115,7 +133,7 @@ None yet. Actively working toward a **Web3 Security Certification** (Cyfrin Updr
 
 - GitHub: [github.com/duljah](https://github.com/duljah)
 - X: [@0Duljah](https://x.com/0Duljah)
-- LinkedIn: [in/duljah](https://linkedin.com/in/duljah)
+- LinkedIn: [in/duljah](https://www.linkedin.com/in/duljah)
 - ORCID: [0009-0007-5835-672X](https://orcid.org/0009-0007-5835-672X)
 - Email: [duljah@proton.me](mailto:duljah@proton.me)
 
