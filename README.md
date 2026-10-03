@@ -1,6 +1,6 @@
 # Duljah
 
-> Cybersecurity Researcher · Web3 & Web2 Bug Bounty · CEO @TeeCorp
+> Cybersecurity Researcher · Web3 & Web2 Bug Hunter · CEO @TeeCorp
 
 `duljah · he/him`
 
@@ -17,9 +17,9 @@
 
 ## About Me
 
-Cybersecurity researcher focused on **Web3 and Web2 Bug Bounty**.  
+Cybersecurity researcher focused on **Web3 and Web2 Bug Bounty Hunting**.  
 CEO of **TeeCorp** — AI & Cybersecurity, registered in Egypt.  
-Currently building public proof of work in **smart contract security**, **Web3 security research**, and **bug bounty**.  
+Currently building public proof of work in **smart contract security**, **Web3 security research**, and **bug bounty hunting**.  
 I create educational content and tips for independent learners.  
 Arch Linux user. Dark mode always. He/Him.
 
@@ -32,7 +32,7 @@ Arch Linux user. Dark mode always. He/Him.
 
 ## Current Focus
 
-- Web3 & Web2 Bug Bounty
+- Web3 & Web2 Bug Bounty Hunting
 - Smart Contract Security
 - Web3 Security Research
 - Educational Content & Tips
@@ -159,7 +159,7 @@ Arch Linux user. Dark mode always. He/Him.
 
 ## Bug Bounty
 
-- Active in Web3 & Web2 Bug Bounty.
+- Active in Web3 & Web2 Bug Bounty Hunting.
 - Profiles: Immunefi · HackerOne · Bugcrowd · HackenProof
 - Public reports and writeups will be published as they become available.
 - **Current status:** No public reports yet.
